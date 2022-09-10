@@ -5,5 +5,6 @@ hello anna! hello git!
 hello anna! hello git!
 master-test
 hello anna! hello git!
+hello.master
 hThe command yy (yank yank) is used to copy a line. Move the cursor to the line you want to copy and then press yy. paste. p. The command yy (yank yank) is used to copy a line. Move the cursor to the line you want to copy and then press yy. paste. p. ello anna! hello git!
 
